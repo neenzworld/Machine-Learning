@@ -1,6 +1,6 @@
 ---
 title: "Machine Learning for Predictive Social Science"
-subtitle: "Comparing OLS, LASSO Regularization, and Random Forests in Health Trajectories"
+subtitle: "Comparing OLS, LASSO Regularization and Random Forests in Health Trajectories"
 author: "Neena Abimbola Albarus"
 format:
   html:
